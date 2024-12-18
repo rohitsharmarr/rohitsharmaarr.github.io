@@ -1,6 +1,6 @@
 
 let i = 0;
-let text1 = "Hey Jenny! Sending you love and kisses through this website.";
+let text1 = "Hey Jenny! I'm so grateful and blessed to have you babe. All my kisses, just for you.";
 let text2 = "This website is to record  how long we've known each other <3"
 let speed = 100;
 
